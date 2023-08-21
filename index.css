@@ -160,6 +160,7 @@ body{
 .Register_dad{
     flex-direction: column;
     width: 90%;
+    margin: auto;
 }
 }
 @media screen and (max-width: 576px) {
@@ -172,6 +173,7 @@ body{
 .Register_dad{
     flex-direction: column;
     width: 90%;
+    margin: auto;
 }
 }
 
@@ -182,6 +184,7 @@ body{
 .Register_dad{
     flex-direction: column;
     width: 90%;
+    margin: auto;
 }
 .Register_form{
     width: 100%;
@@ -195,6 +198,7 @@ body{
 .Register_dad{
     flex-direction: column;
     width: 90%;
+    margin: auto;
 }
 .Register_form{
     width: 100%;
