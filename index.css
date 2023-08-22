@@ -79,6 +79,7 @@ body{
 }
 .Register_btn-google{
     color: #000;
+    text-align: center;
     background-color: white;
     align-items: center;
     padding-left: 64px;
@@ -92,6 +93,7 @@ body{
 }
 .Register_btn-apple{
     display: flex;
+    text-align: center;
     align-items: center;
     padding-left: 64px;
     padding-right: 64px;
@@ -162,6 +164,9 @@ body{
     width: 90%;
     margin: auto;
 }
+.Formulario{
+    width: 100%;
+}
 }
 @media screen and (max-width: 576px) {
 .Register_right {
@@ -174,6 +179,9 @@ body{
     flex-direction: column;
     width: 90%;
     margin: auto;
+}
+.Formulario{
+    width: 100%;
 }
 }
 
@@ -189,6 +197,9 @@ body{
 .Register_form{
     width: 100%;
 }
+.Formulario{
+    width: 100%;
+}
 }
 
 @media screen and (min-width: 769px) and (max-width: 1206px) {
@@ -201,6 +212,9 @@ body{
     margin: auto;
 }
 .Register_form{
+    width: 100%;
+}
+.Formulario{
     width: 100%;
 } 
 }
